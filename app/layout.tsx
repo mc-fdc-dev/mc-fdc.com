@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="ja">
       <body className={`${inter.className} bg-white`}>
         <Header />
-        <main>
+        <main className="bg-[#ffede3] min-h-screen">
           {children}
         </main>
       </body>
