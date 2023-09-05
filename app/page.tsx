@@ -1,6 +1,6 @@
 const Page = () => {
   return (
-    <div className="bg-[#fad4c0] min-h-screen">
+    <div className="bg-[#ffede3] min-h-screen">
       ok
     </div>
   )
